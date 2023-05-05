@@ -1,0 +1,29 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color:cadetblue;
+}
+img {
+	width: 650px;
+	border-radius: 10px;
+}
+h1, h2 {
+	text-align: center;
+	color: antiquewhite;
+}
+h2 {
+	text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+button {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	margin: 5px;
+	background-color: black;
+	color:antiquewhite;
+	border-radius: 5px;
+	padding: 10px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.main-img, .btn  {
+	display: flex;
+	justify-content: center;
+}
